@@ -1,5 +1,6 @@
 Medical RAG Chatbot
 A specialized chatbot that provides medical information based on a pre-loaded knowledge base of medical documents using Retrieval-Augmented Generation (RAG).
+<img width="1339" height="614" alt="Screenshot 2025-09-28 000115" src="https://github.com/user-attachments/assets/088788ec-4932-4d8b-b3d6-c0983a6dfb48" />
 
 
 Features
