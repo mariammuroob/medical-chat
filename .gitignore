@@ -1,0 +1,15 @@
+# ignore virtual environments
+venv/
+shrek-mode/
+
+# ignore secrets
+.env
+*.env
+.streamlit/
+.streamlit/secrets.toml
+
+# ignore local junk
+__pycache__/
+*.pyc
+.DS_Store
+vectorstore/
